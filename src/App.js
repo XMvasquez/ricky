@@ -3,7 +3,7 @@ import imagenCredencial from "srcimgFotocredencial.jpg";
 
 import "./App.css";
 import { useState } from "react";
-import Characters from "./Components/Characters";
+import Characters from "./components/characters";
 
 function App() {
   const [characters, setCharacters] = useState(null);
