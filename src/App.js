@@ -1,5 +1,5 @@
-import imageRickMorty from "./rickyfoto.png";
-import imagenCredencial from "./Fotocredencial.jpg";
+import imageRickMorty from "./img/Fotocredencial.jpg";
+import imagenCredencial from "./img/Fotocredencial.jpg";
 
 import "./App.css";
 import { useState } from "react";
