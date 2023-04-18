@@ -1,4 +1,4 @@
-import imageRickMorty from "./img/rick-morty.png";
+import imageRickMorty from "srcimg\rickyfoto.png";
 import imagenCredencial from "srcimgFotocredencial.jpg";
 
 import "./App.css";
